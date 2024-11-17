@@ -2,7 +2,7 @@
  ### All the San Francisco and other Apple Fonts for Windows
 **Official site:** [developer.apple.com/fonts/](https://developer.apple.com/fonts/)
 
-**Tested on Windows 10 - 11**
+**Tested on Windows 10 - 11 | macOS 10.14 - 15.1**
 
 *If you encounter any issues, feel free to open a bug report.*
 
